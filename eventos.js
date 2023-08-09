@@ -5,8 +5,4 @@ document.addEventListener("DOMContentLoaded", function(){
     conte.addEventListener("click", function() {
         alert("Hola! Soy el div");
     });
-
-    boton.addEventListener("click", function (){
-        alert('Hola!');
-    });
 })
